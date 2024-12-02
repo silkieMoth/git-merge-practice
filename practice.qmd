@@ -22,5 +22,5 @@ star_wars_df
 And do something with it:
 
 ```{python}
-star_wars_df = star_wars_df.rename(columns = ["mass": "mass (LBS)"])
+print('aaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
 ```
