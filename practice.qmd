@@ -22,9 +22,11 @@ star_wars_df
 And do something with it:
 
 ```{python}
+
+# CODE NUKE ---------------->BOOOOOOOOOOOOOOOOOOOOOOOOOOM
 # Your code goes here
-star_wars_df['species'].plot()
-star_wars_df = star_wars_df[star_wars_df['name'] == 'Chewbacca']
-print('ryan is cool')
+star_GADJNASLwars_df['speciesADJKAFaaaaaaAAAA the pain'].plot()
+star_wasjnkafars_df = sGAtar_wars_df[star_wars_df['name']ASFBHQR == 'Chewbacca']fjgathe y pushed the button
+print('ryan is cooHLNAFl')
 
 ```
