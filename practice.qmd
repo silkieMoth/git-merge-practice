@@ -22,5 +22,5 @@ star_wars_df
 And do something with it:
 
 ```{python}
-print('aaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
+star_wars_df = star_wars_df[star_wars_df['name'] == 'Chewbacca']
 ```
