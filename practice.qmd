@@ -23,4 +23,5 @@ And do something with it:
 
 ```{python}
 # Your code goes here
+star_wars_df['species'].plot()
 ```
