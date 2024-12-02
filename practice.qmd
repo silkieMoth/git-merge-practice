@@ -22,12 +22,9 @@ star_wars_df
 And do something with it:
 
 ```{python}
-<<<<<<< HEAD
-
 # Your code goes here
 star_wars_df['species'].plot()
-
-=======
 star_wars_df = star_wars_df[star_wars_df['name'] == 'Chewbacca']
->>>>>>> b2bd292ad3fa6e75e29c32a15d48afedca144afd
+print('ryan is cool')
+
 ```
