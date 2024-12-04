@@ -1,3 +1,0 @@
-# This is a sample quarto document 
-
-I should delet this later 
